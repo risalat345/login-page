@@ -1,0 +1,34 @@
+body{
+    background-color: cadetblue;
+    color: white;
+    background-image: url(milky-way-2695569_1280.jpg);
+    background-repeat:repeat;
+    background-size: cover;
+}
+.col-md-6{
+    height: 480px;
+    width: 400px;
+
+    margin-top: 4%;
+    border-radius: 10px;
+}
+.qw{
+    width: 345px;
+    height: 35px;
+    margin-top: 4%;
+    margin-left: 4%;
+    border-radius: 7px;
+    border: 1px solid gray;
+}
+.re{
+    color: aliceblue;
+    padding: 5px 152px;
+    margin-left: 4%;
+    margin-top: 2%;
+}
+.io{
+    color: aliceblue;
+    padding: 0px;
+    margin-left: 0%;
+    margin-top: 0%;
+}
